@@ -18,9 +18,10 @@ admin@lnau.net
 
 npub1kufexg7ktwv5akrgs5w0j9crchkl4w2ek0hx456dvlt0sx858q8sp0hl05
 
-**Implimentation:** LND
-**Hardware:** PDP-11
-**Networking:** Novation CAT 300
-**Operating System:** VAX/VME
+#### System
+- **Implimentation:** LND
+- **Hardware:** PDP-11
+- **Networking:** Novation CAT 300
+- **Operating System:** VAX/VME
 
 [Amboss](https://amboss.space/node/02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8)  [1ML](https://1ml.com/node/02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8)
