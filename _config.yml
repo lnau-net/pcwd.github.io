@@ -4,6 +4,6 @@ remote_theme: pages-themes/hacker@v0.2.0
 show_downloads: false # (unquoted) to indicate whether to provide a download URL
 # google_analytics: [Your Google Analytics tracking ID]
 title: lnau.net
-description: A bitcoin lightning network routing node.
+description: “Writing a description for this thing for general audiences is bloody hard. There’s nothing to relate it to.” — Satoshi Nakamoto
 github:
  repository_url: https://lnau.net
