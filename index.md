@@ -10,15 +10,11 @@
 
 Do you need a bitcoin lightning wallet? You can use one of ours. It's free and ready to use instantly to send and receive lightning payments. [wallet.lnau.net](https://wallet.lnau.net "Free Bitcoin Lightning Network Wallet")
 
-#### Contact
+#### Contact Us.
+- **Email:** admin@lnau.net
+- **Nostr:** npub1kufexg7ktwv5akrgs5w0j9crchkl4w2ek0hx456dvlt0sx858q8sp0hl05
 
-admin@lnau.net
-
-#### Nostr
-
-npub1kufexg7ktwv5akrgs5w0j9crchkl4w2ek0hx456dvlt0sx858q8sp0hl05
-
-#### System
+#### Our System.
 - **Implimentation:** LND
 - **Hardware:** PDP-11
 - **Networking:** Novation CAT 300
