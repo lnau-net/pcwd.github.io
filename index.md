@@ -1,5 +1,3 @@
-# Bitcoin Lightning Network Node
-
 #### A public routing node for the bitcoin [lighting network](https://lightning.network/ "The Lightning Network paper is licenced Creative Commons Attribution 4.0 International (CC BY 4.0).").
 
 ### Clearnet
