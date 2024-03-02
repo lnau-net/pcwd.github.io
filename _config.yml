@@ -3,3 +3,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: false # (unquoted) to indicate whether to provide a download URL
 # google_analytics: [Your Google Analytics tracking ID]
+title: Bitcoin Lightning Network Node
+# description: [A short description of your site's purpose]
