@@ -5,3 +5,5 @@ show_downloads: false # (unquoted) to indicate whether to provide a download URL
 # google_analytics: [Your Google Analytics tracking ID]
 title: Bitcoin Lightning Network Node
 # description: [A short description of your site's purpose]
+github:
+  repository_url: https://lnau.net
