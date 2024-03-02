@@ -4,6 +4,6 @@ remote_theme: pages-themes/hacker@v0.2.0
 show_downloads: false # (unquoted) to indicate whether to provide a download URL
 # google_analytics: [Your Google Analytics tracking ID]
 title: Bitcoin Lightning Network Routing Node
-description: A public routing node for the bitcoin [lighting network](https://lightning.network/ "The Lightning Network paper is licenced Creative Commons Attribution 4.0 International (CC BY 4.0).").
-github:
-  repository_url: https://lnau.net
+description: lnau.net
+# github:
+# repository_url: https://lnau.net
