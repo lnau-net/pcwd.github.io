@@ -1,4 +1,4 @@
-#### A public routing node for the bitcoin [lighting network](https://lightning.network/ "The Lightning Network paper is licenced Creative Commons Attribution 4.0 International (CC BY 4.0).").
+### A public routing node for the bitcoin [lighting network](https://lightning.network/ "The Lightning Network paper is licenced Creative Commons Attribution 4.0 International (CC BY 4.0).").
 
 ### Clearnet
 
@@ -17,5 +17,3 @@ admin@lnau.net
 ### Nostr
 
 npub1kufexg7ktwv5akrgs5w0j9crchkl4w2ek0hx456dvlt0sx858q8sp0hl05
-
-
