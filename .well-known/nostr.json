@@ -1,0 +1,11 @@
+{
+  "names": {
+    "admin@lnau.net": "b7139323d65b994ed868851cf91703c5edfab959b3ee6ad34d67d6f818f4380f"
+  },
+  "relays": {
+    "YOUR_NOSTR_PUBLIC_KEY_IN_HEX_FORMAT": [
+      "wss://nostr.lnau.net",
+      ...
+    ]
+  }
+}
