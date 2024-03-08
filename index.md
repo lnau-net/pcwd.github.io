@@ -2,9 +2,11 @@
 ### A public routing node for the bitcoin [lighting network](https://lightning.network/ "The Lightning Network paper is licenced Creative Commons Attribution 4.0 International (CC BY 4.0).").
 
 #### Clearnet
-`02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8@45.63.24.174:33590`
+[🔗QR](assets/images/qr-code-clearnet.png) `02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8@45.63.24.174:33590`
+
 #### TOR
-`02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8@4p6ioa5l43bjkzqvivybpeubufst6hkw65dmtj2x3cmeotbo32lqu4ad.onion:9735`
+[🔗QR](assets/images/qr-code-tor.png)`02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8@4p6ioa5l43bjkzqvivybpeubufst6hkw65dmtj2x3cmeotbo32lqu4ad.onion:9735`
+
 
 Do you need a bitcoin lightning wallet? You can create one here and use it immediatly to send and receive lightning payments. [lnwallet.app](https://lnwallet.app "Bitcoin Lightning Network Wallet") 
 
