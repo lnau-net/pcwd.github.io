@@ -5,7 +5,7 @@
 [🔗QR](assets/images/lnd.lnau.net.png) `02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8@lnd.lnau.net:9735`
 
 #### TOR
-[🔗QR](assets/images/qr-code-tor.png) `02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8@v5q7en33sskqyndfdyngoa2je5wuqm7kgxlwchxqbpv254fmee6aejid.onion:9735`
+[🔗QR](assets/images/qr-code-tor.png) `02656b7abfeb4065ca1b52310af76750e769718b2b0dfce1ff4f07fe5cef3c3ff8@5t4eopsaptwux352mel3eyg7ij3rc3yprzjwqurmxsj7722c4jpuayad.onion:9735`
 
 ---
 
