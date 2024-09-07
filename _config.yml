@@ -7,3 +7,4 @@ title: lnau.net
 description: “Writing a description for this thing for general audiences is bloody hard. There’s nothing to relate it to.” — Satoshi Nakamoto
 github:
  repository_url: https://lnau.net
+include: [".well-known"]
