@@ -1,8 +1,14 @@
+
 {
   "status":"OK",
   "callback":"https://pcwitchdoctor.com/.well-known/lnurlp/mark",
-  "tag":"payRequest","maxSendable":1000000000,"minSendable":1000,
+  "tag":"payRequest",
+  "maxSendable":1000000000,
+  "minSendable":1000,
   "metadata":"[[\"text/plain\",\"Pay to mark@pcwitchdoctor.com\"],
-  [\"text/identifier\",\"mark@pcwitchdoctor.com\"]]","commentAllowed":2000,
-  "allowsNostr":true,"nostrPubkey":"82eb17838630a8e7731fde0a4beff72b55096304f29e7ea7e44a731d54b88d9c"
+  [\"text/identifier\",
+  \"mark@pcwitchdoctor.com\"]]",
+  "commentAllowed":2000,
+  "allowsNostr":true,
+  "nostrPubkey":"82eb17838630a8e7731fde0a4beff72b55096304f29e7ea7e44a731d54b88d9c"
 }
