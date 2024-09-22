@@ -8,3 +8,4 @@ description: “Writing a description for this thing for general audiences is bl
 github:
  repository_url: https://lnau.net
 include: [".well-known"]
+include: [.well-known/lnurlp"]
