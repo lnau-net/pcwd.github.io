@@ -1,13 +1,7 @@
 {
   "status":"OK",
-  "callback":"https://pcwitchdoctor.com/.well-known/lnurlp/mark",
   "tag":"payRequest",
-  "maxSendable":1000000000,
-  "minSendable":1000,
-  "metadata":"[[\"text/plain\",\"Pay to admin@lnau.net\"],
-  [\"text/identifier\",
-  \"mark@pcwitchdoctor.com\"]]",
-  "commentAllowed":2000,
-  "allowsNostr":true,
-  "nostrPubkey":"82eb17838630a8e7731fde0a4beff72b55096304f29e7ea7e44a731d54b88d9c"
+  "commentAllowed":255,
+  "callback":"https://getalby.com/lnurlp/luckycollaboration809046/callback",
+  "metadata":"[[\"text/identifier\",\"admin@lnau.net\"],[\"text/plain\",\"Sats for me.\"]]","minSendable":1000,"maxSendable":10000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false},"pubkey":{"mandatory":false}},"nostrPubkey":"79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432","allowsNostr":true
 }
