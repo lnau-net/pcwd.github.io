@@ -4,7 +4,7 @@
   "tag":"payRequest",
   "maxSendable":1000000000,
   "minSendable":1000,
-  "metadata":"[[\"text/plain\",\"Pay to mark@pcwitchdoctor.com\"],
+  "metadata":"[[\"text/plain\",\"Pay to admin@lnau.net\"],
   [\"text/identifier\",
   \"mark@pcwitchdoctor.com\"]]",
   "commentAllowed":2000,
