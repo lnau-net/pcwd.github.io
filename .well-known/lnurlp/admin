@@ -3,5 +3,5 @@
   "tag":"payRequest",
   "commentAllowed":255,
   "callback":"https://getalby.com/lnurlp/luckycollaboration809046/callback",
-  "metadata":"[[\"text/identifier\",\"admin@lnau.net\"],[\"text/plain\",\"Sats for me.\"]]","minSendable":1000,"maxSendable":10000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false},"pubkey":{"mandatory":false}},"nostrPubkey":"79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432","allowsNostr":true
+  "metadata":"[[\"text/identifier\",\"admin@lnau.net\"],[\"text/plain\",\"Sats for admin@lnau.net\"]]","minSendable":1000,"maxSendable":10000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false},"pubkey":{"mandatory":false}},"nostrPubkey":"79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432","allowsNostr":true
 }
