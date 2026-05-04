@@ -1,1 +1,1 @@
-{"tag":"payRequest","callback":"https://nostrzap.me/lnurlp/api/v1/lnurl/cb/iF7GvX?webhook_data=alias%3D%27webhook_data%27+extra%3D%7B%7D","minSendable":1000,"maxSendable":1000000000,"metadata":"[[\"text/plain\", \"Payment to admin\"], [\"text/identifier\", \"admin@nostrzap.me\"]]","commentAllowed":256}
+{"tag":"payRequest","callback":"https://nostrzap.me/lnurlp/api/v1/lnurl/cb/iF7GvX,"minSendable":1000,"maxSendable":1000000000,"metadata":"[[\"text/plain\", \"Payment to admin\"], [\"text/identifier\", \"admin@nostrzap.me\"]]","commentAllowed":256}
